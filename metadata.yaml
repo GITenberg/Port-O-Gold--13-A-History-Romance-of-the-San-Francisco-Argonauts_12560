@@ -1,0 +1,29 @@
+_repo: Port-O-Gold--13-A-History-Romance-of-the-San-Francisco-Argonauts_12560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stellman, Louis J. (Louis John)
+    aliases:
+    - Stellman, Louis John
+    - Stellmann, Louis J. (Louis John)
+    birthdate: 1877
+    deathdate: 1961
+    gutenberg_agent_id: '4653'
+    url: http://www.gutenberg.org/2009/agents/4653
+    wikipedia: http://en.wikipedia.org/wiki/Louis_J._Stellman
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Port O' Gold\r\nA History-Romance of the San Francisco Argonauts"
+url: http://www.gutenberg.org/ebooks/12560
