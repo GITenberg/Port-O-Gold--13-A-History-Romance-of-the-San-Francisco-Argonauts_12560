@@ -1,5 +1,8 @@
 _repo: Port-O-Gold--13-A-History-Romance-of-the-San-Francisco-Argonauts_12560
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stellman, Louis J. (Louis John)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4653
     wikipedia: http://en.wikipedia.org/wiki/Louis_J._Stellman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12560#Port-O-Gold--13-A-History-Romance-of-the-San-Francisco-Argonauts
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
